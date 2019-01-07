@@ -1,0 +1,20 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+
+h3 {
+    margin: 1rem 0 0.5rem 1rem;
+}
+
+.input-window {
+    height: 91vh;
+    margin: 1rem;
+    width: 47%;
+}
+
+.output-window {
+    height: 91vh;
+    margin-top: 1rem;
+    width: 47%;
+}
