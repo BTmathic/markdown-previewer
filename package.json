@@ -9,7 +9,6 @@
     "build": "parcel build public/index.html --out-dir prod"
   },
   "dependencies": {
-    "lodash": "4.17.11",
     "marked": "^0.3.18",
     "node-sass": "4.5.3",
     "normalize.css": "8.0.1",
